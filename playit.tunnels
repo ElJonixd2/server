@@ -1,6 +1,6 @@
 {
   "tcp_alloc": {
-    "allowed": 16,
+    "allowed": 6,
     "claimed": 1,
     "desired": 1
   },
@@ -52,7 +52,7 @@
     }
   ],
   "udp_alloc": {
-    "allowed": 16,
+    "allowed": 6,
     "claimed": 0,
     "desired": 0
   }
